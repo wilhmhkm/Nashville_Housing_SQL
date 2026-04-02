@@ -13,7 +13,6 @@ The final output is a clean and structured dataset that is ready for visualizati
 - **SQL (T-SQL)** – Queries, joins, CTEs, and window functions  
 - **Microsoft Excel** – Initial dataset format  
 - **GitHub** – Version control and portfolio showcase  
-- **Tableau** – Data visualization (post-cleaning phase)  
 
 ---
 
