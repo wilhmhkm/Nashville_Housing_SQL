@@ -1,4 +1,4 @@
-# 🏡 Nashville Housing Data Cleaning Project
+# 🏡 Nashville Housing
 
 ## 📌 Executive Summary
  
